@@ -1,10 +1,15 @@
 {
     "id": "default",
     "host": "magento.localhost.com",
-    "repo": "https://github.com/amacgregor/mage_1702/trunk",
+    "repo": "https://github.com/jumangs/magento-1.7.0.2.git",
     "svn_username": "",
     "svn_pasword": "",
     "aliases": [
         "magento.localhost.com"
+    ],
+    "database": [
+    "name": "magento_staging",
+    "username": "magento",
+    "password": "magento2013"
     ]
 }
